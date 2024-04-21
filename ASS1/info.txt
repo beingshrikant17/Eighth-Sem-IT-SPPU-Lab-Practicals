@@ -1,0 +1,14 @@
+Probleam Statement: Implement multi-threaded client/server Process communication using RMI
+
+
+Commands To Execute Assignment-1:
+	On Terminal-1:
+		javac *.java
+		rmiregistry
+
+	On Terminal-2:
+		java Server
+
+	On Terminal-3:
+		java Client
+

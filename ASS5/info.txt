@@ -1,0 +1,9 @@
+Probleam Statement: Implement token ring based mutual exclusion algorithm.
+
+Commands To Execute Assignment-5:
+	On Terminal-1:
+		python Tring.py
+
+
+
+
